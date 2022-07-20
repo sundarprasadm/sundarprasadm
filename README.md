@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning Angular,SpringBoot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sundarprasad22@gmai.com
+- 📫 How to reach me sundarprasad22@gmail.com
 
 <!---
 sundarprasadm/sundarprasadm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
