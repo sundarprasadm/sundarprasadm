@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sundarprasadm
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning Angular,SpringBoot
+- 🌱 I’m currently learning Reactjs,SpringBoot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sundarprasad22@gmail.com
 
